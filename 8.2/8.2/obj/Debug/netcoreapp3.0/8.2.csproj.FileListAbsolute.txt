@@ -1,0 +1,11 @@
+D:\L8\8.2\8.2\bin\Debug\netcoreapp3.0\8.2.exe
+D:\L8\8.2\8.2\bin\Debug\netcoreapp3.0\8.2.deps.json
+D:\L8\8.2\8.2\bin\Debug\netcoreapp3.0\8.2.runtimeconfig.json
+D:\L8\8.2\8.2\bin\Debug\netcoreapp3.0\8.2.runtimeconfig.dev.json
+D:\L8\8.2\8.2\bin\Debug\netcoreapp3.0\8.2.dll
+D:\L8\8.2\8.2\bin\Debug\netcoreapp3.0\8.2.pdb
+D:\L8\8.2\8.2\obj\Debug\netcoreapp3.0\8.2.csprojAssemblyReference.cache
+D:\L8\8.2\8.2\obj\Debug\netcoreapp3.0\8.2.AssemblyInfoInputs.cache
+D:\L8\8.2\8.2\obj\Debug\netcoreapp3.0\8.2.AssemblyInfo.cs
+D:\L8\8.2\8.2\obj\Debug\netcoreapp3.0\8.2.dll
+D:\L8\8.2\8.2\obj\Debug\netcoreapp3.0\8.2.pdb
